@@ -1,0 +1,1 @@
+java -jar cfca-service.jar --server.port=10007 --pfx.path=D:/apache-jmeter-4.0/JMeter/attachment/CFCA-service-upload/dcf_test.pfx --pfx.password=test12345678 &
