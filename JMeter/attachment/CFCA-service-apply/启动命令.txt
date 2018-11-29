@@ -1,1 +1,0 @@
-java -jar cfca-service.jar --server.port=8081 --pfx.path=D:/CFCA-service-apply/dcf_test.pfx --pfx.password=test12345678 &

@@ -1,6 +1,0 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Filename,Latency,Encoding,IdleTime,Connect
-1537185838526,134,运营端登录,200,,login 1-1,text,true,,1542,306,1,1,,134,UTF-8,0,7
-1537185838661,0,设置运营端登录cookie为全局变量,200,OK,login 1-1,text,true,,0,0,1,1,,0,utf-8,0,0
-1537185838661,0,Debug Sampler,200,OK,login 1-1,text,true,,3183,0,1,1,,0,GBK,0,0
-1537185840526,306,JDBC Request,200,OK,新建合同 2-1,text,true,,373,0,1,1,,305,UTF-8,0,267
-1537185840832,1,Debug Sampler,200,OK,新建合同 2-1,text,true,,2240,0,1,1,,0,GBK,0,0
